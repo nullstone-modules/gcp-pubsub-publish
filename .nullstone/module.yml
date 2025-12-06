@@ -1,0 +1,17 @@
+org_name: nullstone
+name: gcp-pubsub-publish
+friendly_name: Pub/Sub Publish
+description: Grants a Nullstone app the ability to publish a message to a Pub/Sub Topic
+category: capability
+subcategory: datastores
+provider_types:
+    - gcp
+platform: pubsub
+subplatform: ""
+type: ""
+appCategories:
+    - container
+    - serverless
+    - server
+is_public: true
+tool_name: ""
